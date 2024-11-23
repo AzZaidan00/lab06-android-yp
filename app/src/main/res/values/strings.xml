@@ -5,6 +5,6 @@
     <string name="frameText3">Freelance</string>
 
     <string name="coursesText">Android ATC 801 consists of topics ranging from UI creation, App Development and Firebase</string>
-    <string name="examsText">Exam consists of 45 questions in 90 minutes with passing mark of 80%</string>
+    <string name="examsText">Exam consists of 45 questions in 90 minutes with passing mark of 70%</string>
     <string name="freelanceText">You can be an Android Engineer upon completion on the course</string>
 </resources>
