@@ -7,6 +7,9 @@ android {
     namespace = "com.azim.lab06"
     compileSdk = 35
 
+    buildFeatures {
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "com.azim.lab06"
         minSdk = 26
